@@ -7,6 +7,7 @@
     <title>coba git</title>
 </head>
 <body>
-    
+    <h1>hello world</h1>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo, animi dignis</p>
 </body>
 </html>
